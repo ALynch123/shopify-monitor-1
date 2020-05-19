@@ -21,17 +21,22 @@
 {
             "url": "yeezysupply.com",
             "keywords": [["New Balance"],["Adidas","Yeezy","350" ]]
-            
+
         },
         {
             "url": "kith.com",
             "keywords": [["New Balance"],["Adidas","Yeezy","Nike","Jordan","high","low","OG","shirt","sweatshirt","shoes" ]]
-            
+
         },
         {
             "url": "jimmyjazz.com",
             "keywords": [["New Balance"],["Adidas","Yeezy","Nike","Jordan","high","low","OG","350" ]]
-            
+
+        },
+        {
+            "url": "saintalfred.com",
+            "keywords": [["New Balance"],["Adidas","Yeezy","Nike","Jordan","high","low","OG","350" ]]
+
         },
         { "url": "sesinko.com" }
     ],
