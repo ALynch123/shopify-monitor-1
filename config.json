@@ -1,7 +1,7 @@
 {
     "mongodb_uri": "mongodb://127.0.0.1:27017/shopify",
     "webhook_url": [
-        "DISCORD_WEBHOOK_URL"
+        "https://discordapp.com/api/webhooks/712021766263930883/_E-ME1dnpNV0jF0sYuB8VLxq2XxbWST6g9EgoEGXbCH1RBX-TEE1riUtz_sb-Q9P6laE"
     ],
     "discord_message_settings": {
         "botImage": "https://cdn.discordapp.com/embed/avatars/0.png",
@@ -17,6 +17,21 @@
         {
             "url": "hanon-shop.com",
             "keywords": [["New Balance"],["Adidas","Yeezy" ]]
+        },
+{
+            "url": "yeezysupply.com",
+            "keywords": [["New Balance"],["Adidas","Yeezy","350" ]]
+            
+        },
+        {
+            "url": "kith.com",
+            "keywords": [["New Balance"],["Adidas","Yeezy","Nike","Jordan","high","low","OG","shirt","sweatshirt","shoes" ]]
+            
+        },
+        {
+            "url": "jimmyjazz.com",
+            "keywords": [["New Balance"],["Adidas","Yeezy","Nike","Jordan","high","low","OG","350" ]]
+            
         },
         { "url": "sesinko.com" }
     ],
