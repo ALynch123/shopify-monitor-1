@@ -16,46 +16,41 @@
     "sites": [
         {
             "url": "hanon-shop.com",
-            "keywords": [["New Balance"],["Adidas","Yeezy" ]]
+            "keywords": [["New Balance"],["Adidas"],["Yeezy"],["Nike"],["Jordan"],["high"],["low"],["OG"],["350"],["shorts"]]
         },
 {
             "url": "yeezysupply.com",
-            "keywords": [["New Balance"],["Adidas","Yeezy","350" ]]
+            "keywords": [["New Balance"],["Adidas"],["Yeezy"],["350"]]
 
         },
         {
             "url": "kith.com",
-            "keywords": [["New Balance"],["Adidas","Yeezy","Nike","Jordan","high","low","OG","shirt","sweatshirt","shoes" ]]
+            "keywords": [["New Balance"],["Adidas"],["Yeezy"],["Nike"],["Jordan"],["high"],["low"],["OG"],["350"],["shorts"]]
 
         },
         {
             "url": "jimmyjazz.com",
-            "keywords": [["New Balance"],["Adidas","Yeezy","Nike","Jordan","high","low","OG","350" ]]
+            "keywords": [["New Balance"],["Adidas"],["Yeezy"],["Nike"],["Jordan"],["high"],["low"],["OG"],["350"],["shorts"]]
 
         },
         {
             "url": "saintalfred.com",
-            "keywords": [["New Balance"],["Adidas","Yeezy","Nike","Jordan","high","low","OG","350" ]]
+            "keywords": [["New Balance"],["Adidas"],["Yeezy"],["Nike"],["Jordan"],["high"],["low"],["OG"],["350"],["shorts"]]
 
         },
         {
             "url": "sneakerpolitics.com",
-            "keywords": [["New Balance"],["Adidas","Yeezy","Nike","Jordan","high","low","OG","350" ]]
+            "keywords": [["New Balance"],["Adidas"],["Yeezy"],["Nike"],["Jordan"],["high"],["low"],["OG"],["350"],["shorts"]]
 
         },
         {
             "url": "undefeated.com",
-            "keywords": [["New Balance"],["Adidas","Yeezy","Nike","Jordan","high","low","OG","350" ]]
+            "keywords": [["New Balance"],["Adidas"],["Yeezy"],["Nike"],["Jordan"],["high"],["low"],["OG"],["350"],["shorts"]]
 
         },
         {
             "url": "shop.extrabutterny.com",
-            "keywords": [["New Balance"],["Adidas","Yeezy","Nike","Jordan","high","low","OG","350" ]]
-
-        },
-        {
-            "url": "cncpts.com",
-            "keywords": [["New Balance"],["Adidas","Yeezy","Nike","Jordan","high","low","OG","350" ]]
+            "keywords": [["New Balance"],["Adidas"],["Yeezy"],["Nike"],["Jordan"],["high"],["low"],["OG"],["350"],["shorts"]]
 
         },
         { "url": "sesinko.com" }
