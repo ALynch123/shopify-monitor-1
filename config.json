@@ -5,8 +5,8 @@
     ],
     "discord_message_settings": {
         "botImage": "https://cdn.discordapp.com/embed/avatars/0.png",
-        "botName": "Shopify monitor",
-        "footerDescription": "",
+        "botName": "Sneaker Dealer",
+        "footerDescription": "By Archie Lynch",
         "footerImage": "",
         "timeOfNotification": true
     },
