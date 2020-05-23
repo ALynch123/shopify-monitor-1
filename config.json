@@ -1,7 +1,7 @@
 {
     "mongodb_uri": "mongodb://127.0.0.1:27017/shopify",
     "webhook_url": [
-        "https://discordapp.com/api/webhooks/712021766263930883/_E-ME1dnpNV0jF0sYuB8VLxq2XxbWST6g9EgoEGXbCH1RBX-TEE1riUtz_sb-Q9P6laE"
+        "https://discordapp.com/api/webhooks/713805262435123341/Pu1SjxTfxMLUlldk2f_RvOUb5oHqcjP_F77vsSiw6lTC_lyIRsYiB87eVcAzPNsrSQvn"
     ],
     "discord_message_settings": {
         "botImage": "https://cdn.discordapp.com/embed/avatars/0.png",
